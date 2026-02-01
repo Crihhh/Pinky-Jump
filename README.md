@@ -13,4 +13,4 @@ coins as you can.</p>
 <p>Outside of the game: working with SFML and TMX for the first time and trying to have a well-structured project.</p>
 
 <h1>Visual of the game</h1>
-![Pinky Jump](PinkyJump.png)
+![Pinky Jump](https://github.com/Crihhh/Pinky-Jump/blob/main/PinkyJump.png)
