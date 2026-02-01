@@ -12,5 +12,5 @@ coins as you can.</p>
 <p>Main technical challenges within the game: correct collision with the environment, making the game fluid, gravity control, and element spawning. </p>
 <p>Outside of the game: working with SFML and TMX for the first time and trying to have a well-structured project.</p>
 
-<h1>Visual of the game</h1>
+# Visual of the game
 ![Pinky Jump](https://github.com/Crihhh/Pinky-Jump/blob/main/PinkyJump.png)
